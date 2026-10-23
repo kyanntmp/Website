@@ -15,7 +15,7 @@
     /* ---------------------------------------------------- English */
     en: {
       "meta.title": "Kyann | Welcome Here!",
-      "meta.description": "Personal website of Kyann: TruckersMP driver, Human Resources Manager at Jastuk VTC and future computer science teacher.",
+      "meta.description": "Personal website.",
       "skip": "Skip to content",
       "lang.label": "Language",
       "theme.label": "Theme",
@@ -215,7 +215,7 @@
     /* ---------------------------------------------------- Français */
     fr: {
       "meta.title": "Kyann | Bienvenue Ici\u00a0!",
-      "meta.description": "Site personnel de Kyann\u00a0: chauffeur sur TruckersMP, responsable des ressources humaines chez Jastuk VTC et futur professeur d’informatique.",
+      "meta.description": "Site personnel.",
       "skip": "Aller au contenu",
       "lang.label": "Langue",
       "theme.label": "Thème",
@@ -415,7 +415,7 @@
     /* ---------------------------------------------------- Deutsch */
     de: {
       "meta.title": "Kyann | Herzlich willkommen!",
-      "meta.description": "Persönliche Website von Kyann: TruckersMP-Fahrer, HR-Manager bei Jastuk VTC und zukünftiger Informatiklehrer.",
+      "meta.description": "Persönliche Website.",
       "skip": "Zum Inhalt springen",
       "lang.label": "Sprache",
       "theme.label": "Farbe",
@@ -615,7 +615,7 @@
     /* ---------------------------------------------------- Español */
     es: {
       "meta.title": "Kyann | ¡Bienvenidos!",
-      "meta.description": "Sitio web personal de Kyann: conductor en TruckersMP, Responsable de Recursos Humanos en Jastuk VTC y futuro profesor de informática.",
+      "meta.description": "Sitio web personal.",
       "skip": "Saltar al contenido",
       "lang.label": "Idioma",
       "theme.label": "Color",
@@ -815,7 +815,7 @@
     /* ---------------------------------------------------- Italiano */
     it: {
       "meta.title": "Kyann | Benvenuti!",
-      "meta.description": "Sito personale di Kyann: autista su TruckersMP, Responsabile delle Risorse Umane in Jastuk VTC e futuro insegnante di informatica.",
+      "meta.description": "Sito personale.",
       "skip": "Vai al contenuto",
       "lang.label": "Lingua",
       "theme.label": "Colore",
